@@ -225,7 +225,7 @@ Retrieved from https://www.airbnb.com/ [Compilation Date: October-November 2024]
 
 ---
 
-## 📐 Data Processing & Methodology
+## Data Processing & Methodology
 
 ### **Housing Units & Population Estimation**
 - **Method:** Housing units from ACS 2023
@@ -467,23 +467,6 @@ This dataset compiles information from multiple public sources:
 
 **Recommended Attribution:**
 "Data compiled from U.S. Census Bureau (ACS 2023), Zillow Research, HUD, Airbnb, and tourism guides. See README.md for complete sources."
-
----
-
-## Questions & Data Requests
-
-For questions about specific data points or methodologies:
-
-1. Verify source in Data Sources section above
-2. Consult original source documentation
-3. Check Data Quality & Limitations section
-4. Refer to Data Dictionary for column definitions
-
-**Original Source Contact Information:**
-- U.S. Census Bureau: https://www.census.gov/
-- Zillow Group: https://www.zillow.com/
-- HUD: https://www.hud.gov/
-- Airbnb: https://www.airbnb.com/
 
 ---
 
