@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 This comprehensive dataset compiles demographic, housing, and Airbnb market data for 700+ neighborhoods across 5 major metropolitan areas in the United States. The dataset includes real Airbnb listing volume data, census demographics, rental pricing, tourism classifications, and economic indicators suitable for econometric analysis.
 
@@ -18,7 +18,7 @@ This comprehensive dataset compiles demographic, housing, and Airbnb market data
 
 ---
 
-## 🏙️ Geographic Coverage
+## Geographic Coverage
 
 ### **Los Angeles County**
 - **Total Neighborhoods:** 270+ (220 original + 50 additional)
@@ -60,7 +60,7 @@ This comprehensive dataset compiles demographic, housing, and Airbnb market data
 
 ---
 
-## 📋 Data Sources & Citations
+## Data Sources & Citations
 
 ### **Primary Data Source 1: U.S. Census Bureau - American Community Survey (ACS) 2023**
 
@@ -288,7 +288,7 @@ Retrieved from https://www.airbnb.com/ [Compilation Date: October-November 2024]
 
 ---
 
-## 📈 Statistical Summary
+## Statistical Summary
 
 ### **Income Distribution**
 - **Minimum:** $32,100 (Hunts Point, NYC)
@@ -326,7 +326,7 @@ Retrieved from https://www.airbnb.com/ [Compilation Date: October-November 2024]
 
 ---
 
-## 🔍 Data Quality & Limitations
+## Data Quality & Limitations
 
 ### **Strengths**
 ✓ Census data from official U.S. Census Bureau (ACS 2023)  
@@ -355,7 +355,7 @@ Retrieved from https://www.airbnb.com/ [Compilation Date: October-November 2024]
 
 ---
 
-## 🎓 Recommended Citations
+## Recommended Citations
 
 ### **For Academic Papers**
 
@@ -396,7 +396,7 @@ For Airbnb analysis:
 
 ---
 
-## 📞 Data Validation & Verification
+## Data Validation & Verification
 
 ### **Quality Assurance Procedures Applied**
 1. **Census Data Validation**
@@ -421,7 +421,7 @@ For Airbnb analysis:
 
 ---
 
-## 📚 Related Resources
+## Related Resources
 
 ### **Census Data Resources**
 - American Community Survey: https://www.census.gov/programs-surveys/acs
@@ -443,7 +443,7 @@ For Airbnb analysis:
 
 ---
 
-## 📋 Version History
+## Version History
 
 **Version 1.0 - November 14, 2024**
 - Initial dataset compilation
@@ -455,7 +455,7 @@ For Airbnb analysis:
 
 ---
 
-## ⚖️ Attribution & License
+## Attribution & License
 
 This dataset compiles information from multiple public sources:
 
@@ -470,7 +470,7 @@ This dataset compiles information from multiple public sources:
 
 ---
 
-## 📧 Questions & Data Requests
+## Questions & Data Requests
 
 For questions about specific data points or methodologies:
 
