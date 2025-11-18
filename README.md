@@ -101,7 +101,7 @@ EconometricsProject/
 │       ├── airbnb_density_by_city.png
 │       └── Graph.png
 │
-├── docs/                                        # Documentation
+├── docs/                                       # Documentation
 │   ├── DATA_DESCRIPTION.md                     # Comprehensive data documentation
 │   └── data-sources.md                         # Data source details
 │
