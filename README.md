@@ -72,30 +72,30 @@ EconometricsProject/
 │   │   └── broward-county_listings.csv         # 39,074 listings, 79 columns
 │   │
 │   ├── Census Demographics/                    # ACS 2023 demographic data (27 files)
-│   │   ├── neighborhood_demographics_acs_2023.csv  # Primary demographics file
-│   │   ├── austin_zip_demographics_acs_2023.csv    # Austin ZIP-level data
-│   │   ├── dallas_council_districts_demographics.csv  # Dallas district data
-│   │   ├── manhattan_neighborhoods_demographics.csv
-│   │   ├── brooklyn_neighborhoods_demographics.csv
-│   │   ├── outer_boroughs_neighborhoods_demographics.csv
-│   │   ├── los_angeles_neighborhoods_*.csv     # LA data (8 parts)
-│   │   ├── nyc_*.csv                           # NYC data (6 parts)
-│   │   └── broward_county_*.csv                # Broward data (2 files)
+│   │   ├── neighborhood_demographics_acs_2023.csv  # 33 rows × 6 columns, Primary demographics file
+│   │   ├── austin_zip_demographics_acs_2023.csv    # 45 rows × 6 columns, Austin ZIP-level data
+│   │   ├── dallas_council_districts_demographics.csv  # 15 rows × 6 columns, Dallas district data
+│   │   ├── manhattan_neighborhoods_demographics.csv   # 25 rows × 6 columns
+│   │   ├── brooklyn_neighborhoods_demographics.csv    # 24 rows × 6 columns
+│   │   ├── outer_boroughs_neighborhoods_demographics.csv  # 39 rows × 6 columns
+│   │   ├── los_angeles_neighborhoods_*.csv     # LA data (8 parts, 6 columns each)
+│   │   ├── nyc_*.csv                           # NYC data (6 parts, 6 columns each)
+│   │   └── broward_county_*.csv                # Broward data (2 files, 6 columns each)
 │   │
 │   ├── Rent Data/                              # Median rent data (2 files)
-│   │   ├── neighborhood_median_rent_2024.csv   # Primary rent file
-│   │   └── austin_zip_codes_median_rent.csv    # Austin ZIP-level rent
+│   │   ├── neighborhood_median_rent_2024.csv   # 43 rows × 6 columns, Primary rent file
+│   │   └── austin_zip_codes_median_rent.csv    # 45 rows × 6 columns, Austin ZIP-level rent
 │   │
 │   ├── Housing Units/                          # Total housing units (1 file)
-│   │   └── neighborhood_housing_units.csv
+│   │   └── neighborhood_housing_units.csv      # 33 rows × 4 columns
 │   │
 │   ├── Tourist Area Indicator/                 # Tourism classification (6 files)
-│   │   ├── neighborhood_tourist_classification.csv  # Primary tourism file
-│   │   ├── la_tourism_classification.csv
-│   │   ├── nyc_tourism_classification.csv
-│   │   ├── broward_tourism_classification.csv
-│   │   ├── tourism_classification_final.csv
-│   │   └── tourist_area_classification.csv
+│   │   ├── neighborhood_tourist_classification.csv  # 33 rows × 5 columns, Primary tourism file
+│   │   ├── la_tourism_classification.csv       # 52 rows × 5 columns
+│   │   ├── nyc_tourism_classification.csv      # 88 rows × 5 columns
+│   │   ├── broward_tourism_classification.csv  # 21 rows × 5 columns
+│   │   ├── tourism_classification_final.csv    # 12 rows × 5 columns
+│   │   └── tourist_area_classification.csv     # 113 rows × 5 columns
 │   │
 │   └── charts/                                 # Visualizations
 │       ├── airbnb_density_by_city.png
